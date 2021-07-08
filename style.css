@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(219, 55, 55);
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.Name_of_Objects{
+    color: yellow;
+}
+#output{
+    height: 300px;
+    width: 350px;
+}
